@@ -1,3 +1,0 @@
-C:/Users/mdinh/Documents/GitHub/MicroControllers/Exercise 1/cmake-build-debug/CMakeFiles/Exercise_1.dir
-C:/Users/mdinh/Documents/GitHub/MicroControllers/Exercise 1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/mdinh/Documents/GitHub/MicroControllers/Exercise 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
